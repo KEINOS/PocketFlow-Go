@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/The-Pocket/PocketFlow-Go.svg)](https://pkg.go.dev/github.com/The-Pocket/PocketFlow-Go)
+
 # PocketFlow Go
 
 A minimalist LLM framework concept, ported from Python to Go.
